@@ -8,8 +8,8 @@ import sys
 import pandas as pd
 import random
 
-FNAME = "Attendee First Name"
-LNAME = "Attendee Last Name"
+FNAME = "Buyer First Name"
+LNAME = "Buyer Last Name"
 
 
 def lottery():
